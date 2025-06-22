@@ -1,3 +1,3 @@
-from agno.app.app import FastAPIApp
+from app.app import FastAPIApp
 
 app = FastAPIApp().get_app()
